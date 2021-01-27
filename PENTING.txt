@@ -1,0 +1,4 @@
+alamat
+http://localhost:7882/web-penjualan/
+
+Note : saya menggunakan Port 7882 untuk Apache
